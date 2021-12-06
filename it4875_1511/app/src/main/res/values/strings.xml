@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="from">From</string>
+    <string name="enter_here">Enter here</string>
+    <string name="to">To</string>
+    <string name="handle">Handle</string>
+    <string-array name="array">
+        <item>2</item>
+        <item>8</item>
+        <item>10</item>
+        <item>16</item>
+    </string-array>
+</resources>
